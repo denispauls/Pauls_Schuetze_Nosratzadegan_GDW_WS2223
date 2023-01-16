@@ -68,7 +68,6 @@ module.exports = {
 
 	mode: 'development',
 
-
 	devServer: {
 		publicPath: '/public/dist',
 	}
